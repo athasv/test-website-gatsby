@@ -1,0 +1,15 @@
+#header {
+  font-family: 'Oswald', serif;
+  background: url('/coffee.jpg');
+  background-size: cover;
+  color: #FFFFFF;
+}
+
+#header #inner {
+  background: rgba(219, 49, 56, 2.85);
+  padding: 1rem;
+}
+
+#header h1 {
+  margin: 2;
+}
